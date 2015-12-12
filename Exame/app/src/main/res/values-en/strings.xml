@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exame</string>
+    <string name="botonChamar">Call</string>
+    <string name="botonAudio">Audio</string>
+    <string name="botonSalario">Salary</string>
+    <string name="tvNomes">Type a name</string>
+    <string name="tvTelefonos">Type a phone number</string>
+    ç<string name="nonNome">You did not type a name</string>
+    <string name="nonTelefono">You did not type a phone number</string>
+</resources>

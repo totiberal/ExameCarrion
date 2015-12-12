@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Color">
+
+        <group
+            android:id="@+id/mgrpModos"
+            android:checkableBehavior="single" >
+            <item
+                android:id="@+id/idVerde"
+                android:showAsAction="never"
+                android:title="Verde"
+                android:titleCondensed="Ver">
+            </item>
+            <item
+                android:id="@+id/idAzul"
+                android:showAsAction="never"
+                android:title="Azul"
+                android:titleCondensed="Az">
+            </item>
+        </group>
+
+    </item>
+
+</menu>
